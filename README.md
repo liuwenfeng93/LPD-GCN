@@ -6,7 +6,7 @@ Wenfeng Liu, Maoguo Gong, Zedong Tang, A. K. Qin. Locality Preserving Dense Grap
 
 For more theoretical and pratical details about this repository, please see our paper [arXiv] (https://arxiv.org/abs/2010.05404), thanks!
 
-This work has been submitted to Neural Networks(https://www.journals.elsevier.com/neural-networks/). If you make use of the code/experiment or LPD-GCN algorithm in your work, please cite our paper (Bibtex below).
+This work has been submitted to Neural Networks (https://www.journals.elsevier.com/neural-networks/). If you make use of the code/experiment or LPD-GCN algorithm in your work, please cite our paper (Bibtex below).
 ```
 @article{Liu2020Locality,
   title={Locality Preserving Dense Graph Convolutional Networks with Graph Context-Aware Node Representations},
