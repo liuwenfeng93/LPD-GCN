@@ -26,12 +26,7 @@ pip install -r requirements.txt
 ```
 
 ## Test run
-Unzip the dataset file
-```
-unzip dataset.zip
-```
-
-and run
+Run
 
 ```
 python main.py
