@@ -26,6 +26,12 @@ pip install -r requirements.txt
 ```
 
 ## Test run
+Unzip the datasets file
+
+```
+unzip datasets.zip
+```
+
 Run
 
 ```
