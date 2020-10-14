@@ -4,7 +4,7 @@ This is the repo for the PyTorch implementation of the algorithm in the followin
 
 Wenfeng Liu, Maoguo Gong, Zedong Tang, A. K. Qin. Locality Preserving Dense Graph Convolutional Networks with Graph Context-Aware Node Representations.
 
-For more theoretical and pratical details about this repo, please see our paper [arXiv] (https://arxiv.org/abs/2010.05404), thanks!
+For more theoretical and pratical details about this repo, please go to [arXiv] (https://arxiv.org/abs/2010.05404), thanks!
 
 This work has been submitted to Neural Networks (https://www.journals.elsevier.com/neural-networks/). If you make use of the code/experiment or LPD-GCN algorithm in your work, please cite our paper (Bibtex below).
 ```
