@@ -40,7 +40,7 @@ python main.py --help
 to learn hyper-parameters to be specified.
 
 ## Acknowledgement
-This repository is modified from GIN(https://github.com/weihua916/powerful-gnns). We sincerely thank them for their contributions.
+This repository is modified from GIN (https://github.com/weihua916/powerful-gnns). We sincerely thank them for their contributions.
 
 ## Cite
 This work has been submitted to Neural Networks (https://www.journals.elsevier.com/neural-networks/). If you make use of the code/experiment or LPD-GCN algorithm in your work, please cite our paper (Bibtex below).
