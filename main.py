@@ -1,4 +1,4 @@
-# This code is supported by Wenfeng Liu from Xidian university. If you have any question, please send email to 415525133@qq.com!
+# If you have any question, please send email to 415525133@qq.com
 # -*- coding: utf-8 -*-
 import argparse
 import torch
